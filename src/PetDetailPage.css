@@ -1,0 +1,21 @@
+.pet-detail-container {
+  font-family: "Arial", sans-serif;
+  padding: 20px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.pet-detail-container h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.pet-detail-container img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.compatibility {
+  margin-top: 20px;
+}
